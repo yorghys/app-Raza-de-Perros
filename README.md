@@ -1,6 +1,6 @@
-# App Mascotas
+# App Perros
 
-App Android - Kotlin de búsqueda de mascotas.
+App Android - Kotlin Raza de perros.
 
 ## Capturas
 
